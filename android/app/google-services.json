@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "289555317356",
+    "firebase_url": "https://eventplus-c70c9-default-rtdb.firebaseio.com",
+    "project_id": "eventplus-c70c9",
+    "storage_bucket": "eventplus-c70c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289555317356:android:2eeb8d6ef65827c6c28e49",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC20ui7EDGoKmAXLcWqx69zjWMqwfZPZuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
